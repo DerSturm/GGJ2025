@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{06bc7862-5459-415d-be36-54772cc3de68}">
+		<property name="builtBanksOutputDirectory">
+			<value>T:/GGJ2025/Bubbles/Content/FMOD</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{c6f6ce83-f454-4b0c-9117-215128620c23}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{d098f73b-fb8a-4309-a55b-99988125a7cb}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{03a618ab-4b06-4625-a028-265cbe63a14b}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{5d50cc10-aff3-4cb9-8944-6f1a52cffbdc}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{6161c08e-657c-4296-b7df-e02452d7b849}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{e0836f2e-394a-466d-9d89-71f1cbf989b8}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{992b850e-4a5e-404d-92dc-b1c9eb454ddd}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{138acac9-e0ee-4a3b-ae8b-daff3e197210}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{59e0f02d-bb66-474a-b642-1a4452562e05}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{b9e61891-92e4-409e-a16f-463a532ececc}</destination>
+		</relationship>
+	</object>
+</objects>
