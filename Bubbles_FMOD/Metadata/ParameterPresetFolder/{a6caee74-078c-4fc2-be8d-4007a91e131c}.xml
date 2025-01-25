@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPresetFolder" id="{a6caee74-078c-4fc2-be8d-4007a91e131c}">
+		<property name="name">
+			<value>FMOD_Intern</value>
+		</property>
+		<relationship name="folder">
+			<destination>{5d50cc10-aff3-4cb9-8944-6f1a52cffbdc}</destination>
+		</relationship>
+	</object>
+</objects>

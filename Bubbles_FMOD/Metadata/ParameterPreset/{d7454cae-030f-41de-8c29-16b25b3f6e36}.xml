@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="ParameterPreset" id="{62f513ce-b57c-49be-97fb-70cc05aa7d0d}">
+	<object class="ParameterPreset" id="{d7454cae-030f-41de-8c29-16b25b3f6e36}">
 		<property name="name">
-			<value>MoveRight</value>
+			<value>BubbleAmount</value>
 		</property>
 		<relationship name="folder">
-			<destination>{bfd2833e-6fa2-491e-ae15-b52483a56d05}</destination>
+			<destination>{5d50cc10-aff3-4cb9-8944-6f1a52cffbdc}</destination>
 		</relationship>
 		<relationship name="parameter">
-			<destination>{c313e085-440b-4ff1-831d-2198ddf54a51}</destination>
+			<destination>{3c82cb8b-7e72-4a78-aa49-cc2f3243963f}</destination>
 		</relationship>
 	</object>
-	<object class="GameParameter" id="{c313e085-440b-4ff1-831d-2198ddf54a51}">
+	<object class="GameParameter" id="{3c82cb8b-7e72-4a78-aa49-cc2f3243963f}">
 		<property name="isGlobal">
 			<value>true</value>
 		</property>

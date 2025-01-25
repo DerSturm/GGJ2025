@@ -72,3 +72,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# FMOD original Files
+Bubbles_FMOD/.cache/*
+Bubbles_FMOD/.unsaved/*
+Bubbles_FMOD/.user/*
+Bubbles_FMOD/Assets/*

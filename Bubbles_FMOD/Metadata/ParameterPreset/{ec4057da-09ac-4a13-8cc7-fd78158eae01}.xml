@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{ec4057da-09ac-4a13-8cc7-fd78158eae01}">
+		<property name="name">
+			<value>RecentBubbles</value>
+		</property>
+		<relationship name="folder">
+			<destination>{a6caee74-078c-4fc2-be8d-4007a91e131c}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{d5ca7fe1-0cf4-4826-85c7-032d7ad3c3cf}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{d5ca7fe1-0cf4-4826-85c7-032d7ad3c3cf}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>6</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
