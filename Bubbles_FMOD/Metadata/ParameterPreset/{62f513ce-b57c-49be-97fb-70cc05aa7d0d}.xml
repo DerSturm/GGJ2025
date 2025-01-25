@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{62f513ce-b57c-49be-97fb-70cc05aa7d0d}">
+		<property name="name">
+			<value>MoveRight</value>
+		</property>
+		<relationship name="folder">
+			<destination>{bfd2833e-6fa2-491e-ae15-b52483a56d05}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{c313e085-440b-4ff1-831d-2198ddf54a51}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{c313e085-440b-4ff1-831d-2198ddf54a51}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
