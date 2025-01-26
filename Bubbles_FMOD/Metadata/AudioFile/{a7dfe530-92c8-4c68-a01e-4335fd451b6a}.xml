@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{ed154ad4-eb6c-4132-90b3-4ccd936d00bc}">
+	<object class="AudioFile" id="{a7dfe530-92c8-4c68-a01e-4335fd451b6a}">
 		<property name="assetPath">
-			<value>X Lab_DST_Ravel SUMME.wav</value>
-		</property>
-		<property name="isStreaming">
-			<value>true</value>
+			<value>01_Intro_Summe.flac</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -14,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>389.46310416666665</value>
+			<value>9.9664583333333336</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{992b850e-4a5e-404d-92dc-b1c9eb454ddd}</destination>

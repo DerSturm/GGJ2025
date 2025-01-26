@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="ParameterPreset" id="{9118f6ca-8979-469d-b4db-3706c7e1729b}">
+	<object class="ParameterPreset" id="{25a56e77-a82b-4ffc-bc84-027ce768e506}">
 		<property name="name">
-			<value>ContactToWater</value>
+			<value>Zone</value>
 		</property>
 		<relationship name="folder">
-			<destination>{a6caee74-078c-4fc2-be8d-4007a91e131c}</destination>
+			<destination>{5d50cc10-aff3-4cb9-8944-6f1a52cffbdc}</destination>
 		</relationship>
 		<relationship name="parameter">
-			<destination>{bc754dba-beff-48a7-93d5-426ebc927937}</destination>
+			<destination>{923e9534-40f8-47a8-8012-379f55abe234}</destination>
 		</relationship>
 	</object>
-	<object class="GameParameter" id="{bc754dba-beff-48a7-93d5-426ebc927937}">
+	<object class="GameParameter" id="{923e9534-40f8-47a8-8012-379f55abe234}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>21</value>
+		</property>
 		<property name="isGlobal">
 			<value>true</value>
 		</property>
