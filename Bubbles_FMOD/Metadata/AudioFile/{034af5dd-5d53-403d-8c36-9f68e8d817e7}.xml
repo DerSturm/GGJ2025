@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{034af5dd-5d53-403d-8c36-9f68e8d817e7}">
+		<property name="assetPath">
+			<value>Ambiences/Forest1.flac</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>43.591437499999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{992b850e-4a5e-404d-92dc-b1c9eb454ddd}</destination>
+		</relationship>
+	</object>
+</objects>

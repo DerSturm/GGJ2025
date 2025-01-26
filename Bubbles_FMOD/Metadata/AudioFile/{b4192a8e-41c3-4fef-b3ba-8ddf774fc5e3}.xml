@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b4192a8e-41c3-4fef-b3ba-8ddf774fc5e3}">
+		<property name="assetPath">
+			<value>Ravens/Ravens-001.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.8901666666666668</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{992b850e-4a5e-404d-92dc-b1c9eb454ddd}</destination>
+		</relationship>
+	</object>
+</objects>

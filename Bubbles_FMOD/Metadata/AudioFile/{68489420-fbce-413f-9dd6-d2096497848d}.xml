@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{68489420-fbce-413f-9dd6-d2096497848d}">
+		<property name="assetPath">
+			<value>WindGusts/Wind_Strong-006.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>4.4199166666666665</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{992b850e-4a5e-404d-92dc-b1c9eb454ddd}</destination>
+		</relationship>
+	</object>
+</objects>
