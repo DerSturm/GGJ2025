@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{338a3e5c-2494-4565-86c0-58e5cd944192}">
+	<object class="AudioFile" id="{23ad4908-406a-4d9f-adde-6834355086ea}">
 		<property name="assetPath">
-			<value>AndrewHuang_WMD_tom_one_shot_1.wav</value>
+			<value>TunedPerc/TunedPerc_C_Glockenspiel-003.flac</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>44.0999985</value>
+			<value>48</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>0.20832199546485261</value>
+			<value>2.1200000000000001</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{992b850e-4a5e-404d-92dc-b1c9eb454ddd}</destination>
